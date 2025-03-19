@@ -114,7 +114,7 @@ async def on_message(message):
             
 # Inicia el bot usando el bucle de eventos existente
 async def main():
-    token = 'MTMxOTc1MzY4MTcwNDMyNTI0MQ.GJt616.PZCXmWTBxYLmaJTUZP6WLDKCLi-4QmvH8oiAhI'  # Coloca aquí tu token de Discord
+    token = 'tokenplaceholder' 
     await client.start(token)
 
 # Ejecuta el bucle de eventos
